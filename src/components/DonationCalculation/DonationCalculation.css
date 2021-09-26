@@ -1,0 +1,30 @@
+.donation-calculation {
+    /* background-color: aquamarine; */
+    height: 500px;
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.donation-total {
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+
+.donor-people {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+ol {
+    list-style-position: inside;
+}
+
+ol li {
+    background-color: lightslategray;
+    margin: 3px;
+    padding: 5px 10px;
+    color: white;
+    border-radius: 3px;
+    /* display: inline-block; */
+}

@@ -1,0 +1,9 @@
+.donors-container {
+    width: 95%;
+    display: grid;
+    margin: 0 auto;
+    grid-template-columns: 3fr 1fr;
+    grid-template-rows: max-content;
+    gap: 20px;
+    margin-bottom: 20px;
+}
