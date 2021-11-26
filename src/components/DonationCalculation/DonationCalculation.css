@@ -28,3 +28,15 @@ ol li {
     border-radius: 3px;
     /* display: inline-block; */
 }
+
+.donor-individuals li{
+    display: flex;
+    justify-content: space-between;
+}
+
+.donor-individuals li span {
+    color: red;
+    font-weight: bold;
+    font-size: 20px;
+    cursor: pointer;
+}
